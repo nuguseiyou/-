@@ -10,6 +10,6 @@ public class App {
 //        jedis.set("name", "JJALTOON");
 //        String s = jedis.get("name");
 //        System.out.println(s);
-        //get
+        //git
     }
 }
